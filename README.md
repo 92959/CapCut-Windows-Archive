@@ -7,4 +7,4 @@ Beta versions don't have any brand-name counterparts.
 
 **Downloadable/Found Versions:**
 
-[CapCut 2.5.3](https://web.archive.org/web/20230927003805/https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_3_801_capcutpc_0_creatortool.exe)
+[CapCut 2.5.3](https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/packages/CapCut_2_5_3_801_capcutpc_0_creatortool.exe)
